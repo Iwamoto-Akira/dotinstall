@@ -1,2 +1,2 @@
 # dotinstall
-練習です。Git hubにて２回目の変更
+練習です。vscodeにて２回目の変更
